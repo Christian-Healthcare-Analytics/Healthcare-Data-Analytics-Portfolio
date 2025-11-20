@@ -4,9 +4,11 @@ A Power Automate cloud flow that sends email reminders for appointments schedule
 
 📸 Flow Preview
 
-Add your screenshot here:
+## 📸 Flow Overview
+![Appointment Reminder Flow](./screenshots/appointment-reminder-flow-overview.png)
 
-![Appointment Reminder Flow](./screenshots/flow-overview.png)
+## ⚙️ Logic Example
+![Flow Logic](./screenshots/appointment-reminder-flow-logic.png)
 
 📂 Project Structure
 /appointment-reminder-flow
