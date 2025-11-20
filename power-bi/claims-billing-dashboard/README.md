@@ -17,7 +17,7 @@ A financial performance dashboard analyzing billing, payments, denials, and paye
 ![Data Model](./screenshots/claims-billing-data-model.png)
 
 ## 📊 Dashboard Preview
-![Patient Flow Dashboard](./screenshots/patient-flow-dashboard-overview.png)
+![](./screenshots/patient-flow-dashboard-overview.png)] ![Patient Flow Dashboard]
 
 ## 🗺️ Data Model
 ![Data Model](./screenshots/patient-flow-data-model.png)
