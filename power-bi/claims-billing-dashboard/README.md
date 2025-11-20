@@ -5,25 +5,19 @@ A financial performance dashboard analyzing billing, payments, denials, and paye
 ---
 
 ## 📊 Dashboard Preview
-![Claims Billing Dashboard](./screenshots/claims-billing-dashboard-overview.png)
+![Claims Billing Overview](./screenshots/claims-billing-dashboard-overview.png)
 
-
+## 🍩 Denial Reasons
 ![Denial Reasons](./screenshots/claims-denial-reasons-chart.png)
 
+## 💵 Paid vs Billed
 ![Paid vs Billed](./screenshots/paid-vs-billed-chart.png)
 
+## 🧾 Payer Breakdown
 ![Payer Breakdown](./screenshots/payer-performance-breakdown.png)
 
-![Data Model](./screenshots/claims-billing-data-model.png)
-
-## 📊 Dashboard Preview
-![Patient Flow Dashboard](./screenshots/patient-flow-dashboard-overview.png)
-
 ## 🗺️ Data Model
-![Data Model](./screenshots/patient-flow-data-model.png)
-
-## 📈 Insights
-![Insights](./screenshots/patient-flow-insights.png)
+![Data Model](./screenshots/claims-billing-data-model.png)
 
 
 
