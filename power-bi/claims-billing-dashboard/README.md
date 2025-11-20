@@ -8,7 +8,8 @@ A financial performance dashboard analyzing billing, payments, denials, and paye
 
 > Replace this with your actual screenshot file name: `./screenshots/dashboard.png`
 
-![Claims & Billing Dashboard](./screenshots/dashboard.png)
+![Claims & Billing Dashboard](./screenshots/claims-billing-dashboard-overview.png
+)
 
 ---
 
