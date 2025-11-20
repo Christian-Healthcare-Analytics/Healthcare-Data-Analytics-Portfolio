@@ -228,6 +228,7 @@ My goal is to support healthcare organizations with:
   <a href="https://linkedin.com/in/christian-kassa-24aaaa1a0/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
+  <br>
   <a href="https://github.com/Christian-Healthcare-Analytics">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github" />
   </a>
