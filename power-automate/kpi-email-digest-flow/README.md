@@ -3,9 +3,12 @@
 Sends a daily automated email summarizing key clinical performance metrics.
 
 ---
+## 📸 Flow Overview
+![KPI Email Digest Flow](./screenshots/kpi-email-digest-flow-overview.png)
 
-## 📸 Flow Images
-![Digest Flow](./screenshots/flow.png)
+## ✉️ Email Output Sample
+![Email Sample](./screenshots/kpi-email-digest-email-sample.png)
+
 
 ---
 
