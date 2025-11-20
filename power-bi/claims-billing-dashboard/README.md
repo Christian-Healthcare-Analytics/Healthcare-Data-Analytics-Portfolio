@@ -5,7 +5,7 @@ A financial performance dashboard analyzing billing, payments, denials, and paye
 ---
 
 ## 📊 Dashboard Preview
-(![Claims Billing Dashboard](./screenshots/claims-billing-dashboard-overview.png)
+![Claims Billing Dashboard](./screenshots/claims-billing-dashboard-overview.png)
 
 
 ![Denial Reasons](./screenshots/claims-denial-reasons-chart.png)
@@ -17,7 +17,7 @@ A financial performance dashboard analyzing billing, payments, denials, and paye
 ![Data Model](./screenshots/claims-billing-data-model.png)
 
 
-)
+
 
 ---
 
