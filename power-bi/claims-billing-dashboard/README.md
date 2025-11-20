@@ -6,7 +6,8 @@ A financial performance dashboard analyzing billing, payments, denials, and paye
 
 ## 📊 Dashboard Preview
 
-![Claims Billing Dashboard](screenshots/claims-billing-dashboard-overview.png)
+![Claims Billing Dashboard](![Claims & Billing Dashboard](./power-bi/claims-billing-dashboard/screenshots/claims-billing-dashboard-overview.png)
+)
 
 ![Denial Reasons](./screenshots/claims-denial-reasons-chart.png)
 
