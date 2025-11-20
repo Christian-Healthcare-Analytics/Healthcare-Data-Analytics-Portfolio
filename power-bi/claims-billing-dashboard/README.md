@@ -8,7 +8,16 @@ A financial performance dashboard analyzing billing, payments, denials, and paye
 
 > Replace this with your actual screenshot file name: `./screenshots/dashboard.png`
 
-![Claims & Billing Dashboard](./screenshots/claims-billing-dashboard-overview.png
+![Claims Billing Dashboard](./screenshots/claims-billing-dashboard-overview.png)
+
+![Denial Reasons](./screenshots/claims-denial-reasons-chart.png)
+
+![Paid vs Billed](./screenshots/paid-vs-billed-chart.png)
+
+![Payer Breakdown](./screenshots/payer-performance-breakdown.png)
+
+![Data Model](./screenshots/claims-billing-data-model.png)
+
 )
 
 ---
