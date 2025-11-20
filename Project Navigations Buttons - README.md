@@ -1,4 +1,4 @@
-<h1> Power BI Navigation Buttons</h1>
+<h1> Power BI Navigation</h1>
 <p align="left">
   <a href="./power-bi/patient-flow-dashboard/">
     <img src="https://img.shields.io/badge/Patient%20Flow%20Dashboard-Power%20BI-1e88e5?style=for-the-badge&logo=powerbi" />
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Claims%20%26%20Billing%20Dashboard-Power%20BI-ff9800?style=for-the-badge&logo=powerbi" />
   </a>
 </p>
-<h1> Power Automate Workflow Buttons</h1>
+<h1> Power Automate Workflow</h1>
 
 <p align="left">
   <a href="./power-automate/appointment-reminder-flow/">
@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<h1>Azure AI Project Buttons</h1>
+<h1>Azure AI Project</h1>
 <p align="left">
   <a href="./azure-ai/medical-document-summarizer/">
     <img src="https://img.shields.io/badge/Medical%20Document%20Summarizer-Azure%20AI-0078D4?style=for-the-badge&logo=microsoft-azure" />
