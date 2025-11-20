@@ -220,3 +220,16 @@ My goal is to support healthcare organizations with:
 💻 GitHub: *This portfolio*
 
 ---
+
+<p align="center">
+  <a href="mailto:chriszethio@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOURPROFILE">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/YOURGITHUB">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
