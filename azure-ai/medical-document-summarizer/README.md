@@ -4,8 +4,14 @@ AI-driven summarizer that extracts key points from clinical notes.
 
 ---
 
-## 📸 AI Workflow Preview  
-![AI Workflow](./screenshots/flow.png)
+## 📸 AI Model Workflow
+![Summarization Workflow](./screenshots/medical-summarizer-workflow.png)
+
+## 📝 Input Example
+![Input](./screenshots/medical-summarizer-input.png)
+
+## 📤 Output Example
+![Output](./screenshots/medical-summarizer-output.png)
 
 ---
 
