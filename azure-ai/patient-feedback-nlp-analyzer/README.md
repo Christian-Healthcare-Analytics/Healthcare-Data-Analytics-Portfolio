@@ -4,8 +4,14 @@ Classifies patient feedback by sentiment, category, and urgency using Azure AI.
 
 ---
 
-## 📸 Model Preview  
-![NLP Model](./screenshots/output.png)
+## 📸 NLP Classification Workflow
+![NLP Workflow](./screenshots/patient-feedback-nlp-workflow.png)
+
+## 📝 Input Example
+![Input](./screenshots/patient-feedback-input.png)
+
+## 📤 Output Example
+![Output](./screenshots/patient-feedback-output.png)
 
 ---
 
