@@ -6,7 +6,15 @@ A clinical performance dashboard tracking ER wait times, length of stay (LOS), r
 
 Add your screenshot here:
 
-![Hospital KPI Dashboard](./screenshots/dashboard.png)
+## 📊 Dashboard Preview
+![Hospital KPI Dashboard](./screenshots/hospital-kpi-dashboard-overview.png)
+
+## 🗺️ Data Model
+![Data Model](./screenshots/hospital-kpi-data-model.png)
+
+## 📈 KPI Insights
+![Insights](./screenshots/hospital-kpi-insights.png)
+
 
 📂 Project Structure
 /hospital-kpi-dashboard
