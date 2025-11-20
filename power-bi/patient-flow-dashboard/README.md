@@ -8,9 +8,15 @@ A healthcare operations dashboard analyzing patient throughput, ER wait times, b
 
 ---
 
-## 📊 Dashboard Preview  
-> Replace with your real screenshot  
-![Patient Flow Dashboard](./screenshots/dashboard.png)
+## 📊 Dashboard Preview
+![Patient Flow Dashboard](./screenshots/patient-flow-dashboard-overview.png)
+
+## 🗺️ Data Model
+![Data Model](./screenshots/patient-flow-data-model.png)
+
+## 📈 Insights
+![Insights](./screenshots/patient-flow-insights.png)
+
 
 ---
 
