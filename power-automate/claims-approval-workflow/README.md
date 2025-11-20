@@ -4,8 +4,12 @@ Multi-level approval automation with audit logging.
 
 ---
 
-## 📸 Flow Overview  
-![Approval Flow](./screenshots/flow.png)
+## 📸 Flow Overview
+![Claims Approval Workflow](./screenshots/claims-approval-flow-overview.png)
+
+## 🔁 Approval Steps
+![Approval Steps](./screenshots/claims-approval-flow-steps.png)
+
 
 ---
 
