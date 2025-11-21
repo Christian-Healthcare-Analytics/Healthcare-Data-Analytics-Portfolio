@@ -1,0 +1,121 @@
+feedback_id,patient_id,submitted_date,feedback_text,sentiment_label,category_label,urgency_label
+F6000,P1010,2025-02-15,My prescription was sent to the wrong pharmacy.,Negative,Wait Time,Low
+F6001,P1028,2025-03-09,"I am satisfied with the care I received, the doctor explained everything clearly.",Negative,Facility,High
+F6002,P1037,2025-01-13,"Everything went smoothly, I was seen quickly and my questions were answered.",Positive,Scheduling,Medium
+F6003,P1040,2025-01-17,The staff were rude at the front desk and did not listen to my concerns.,Negative,Billing,Low
+F6004,P1044,2025-01-24,I had trouble scheduling an appointment online and had to call twice.,Negative,Wait Time,Medium
+F6005,P1029,2025-01-08,The staff were rude at the front desk and did not listen to my concerns.,Negative,Facility,Medium
+F6006,P1012,2025-01-19,The staff were rude at the front desk and did not listen to my concerns.,Positive,Staff,Medium
+F6007,P1054,2025-01-11,I had trouble scheduling an appointment online and had to call twice.,Positive,Billing,High
+F6008,P1006,2025-01-21,"The clinic is clean and organized, I feel safe coming here.",Positive,Technology,High
+F6009,P1024,2025-03-22,The telehealth visit was convenient but the connection was unstable.,Negative,Technology,Low
+F6010,P1022,2025-01-12,Follow-up instructions were clear and easy to understand.,Negative,Staff,High
+F6011,P1018,2025-02-17,Follow-up instructions were clear and easy to understand.,Neutral,Billing,Low
+F6012,P1001,2025-02-24,The staff were rude at the front desk and did not listen to my concerns.,Positive,Scheduling,High
+F6013,P1017,2025-03-03,I had trouble scheduling an appointment online and had to call twice.,Positive,Care Quality,Medium
+F6014,P1036,2025-03-05,The nurse was very kind but the wait time in the ER was too long.,Negative,Technology,Medium
+F6015,P1058,2025-02-22,The nurse was very kind but the wait time in the ER was too long.,Positive,Wait Time,Medium
+F6016,P1047,2025-02-16,Follow-up instructions were clear and easy to understand.,Neutral,Wait Time,Low
+F6017,P1053,2025-02-04,"The clinic is clean and organized, I feel safe coming here.",Negative,Scheduling,High
+F6018,P1049,2025-02-14,The staff were rude at the front desk and did not listen to my concerns.,Positive,Staff,Low
+F6019,P1038,2025-03-13,The telehealth visit was convenient but the connection was unstable.,Positive,Staff,Low
+F6020,P1014,2025-03-10,"Everything went smoothly, I was seen quickly and my questions were answered.",Positive,Care Quality,Low
+F6021,P1039,2025-03-21,The telehealth visit was convenient but the connection was unstable.,Negative,Care Quality,Low
+F6022,P1043,2025-02-12,The staff were rude at the front desk and did not listen to my concerns.,Negative,Care Quality,Medium
+F6023,P1040,2025-01-21,Billing was confusing and I was charged twice for the same visit.,Neutral,Wait Time,Low
+F6024,P1057,2025-02-04,"I am satisfied with the care I received, the doctor explained everything clearly.",Positive,Wait Time,Low
+F6025,P1019,2025-02-04,The nurse was very kind but the wait time in the ER was too long.,Positive,Staff,Medium
+F6026,P1002,2025-03-12,"The clinic is clean and organized, I feel safe coming here.",Neutral,Medication,High
+F6027,P1023,2025-01-25,Follow-up instructions were clear and easy to understand.,Positive,Billing,Medium
+F6028,P1005,2025-01-08,Billing was confusing and I was charged twice for the same visit.,Negative,Technology,Low
+F6029,P1020,2025-01-01,The staff were rude at the front desk and did not listen to my concerns.,Negative,Medication,High
+F6030,P1011,2025-01-23,I had trouble scheduling an appointment online and had to call twice.,Neutral,Wait Time,Low
+F6031,P1008,2025-01-04,The telehealth visit was convenient but the connection was unstable.,Positive,Care Quality,Low
+F6032,P1056,2025-03-13,My prescription was sent to the wrong pharmacy.,Positive,Care Quality,Low
+F6033,P1033,2025-02-03,"Everything went smoothly, I was seen quickly and my questions were answered.",Positive,Scheduling,Medium
+F6034,P1058,2025-01-16,My prescription was sent to the wrong pharmacy.,Positive,Billing,Medium
+F6035,P1053,2025-01-16,The staff were rude at the front desk and did not listen to my concerns.,Negative,Staff,Medium
+F6036,P1016,2025-01-13,Billing was confusing and I was charged twice for the same visit.,Positive,Wait Time,Low
+F6037,P1051,2025-02-08,"The clinic is clean and organized, I feel safe coming here.",Negative,Technology,Low
+F6038,P1047,2025-02-24,The staff were rude at the front desk and did not listen to my concerns.,Positive,Technology,High
+F6039,P1051,2025-02-08,"Everything went smoothly, I was seen quickly and my questions were answered.",Neutral,Facility,Medium
+F6040,P1029,2025-01-13,"I am satisfied with the care I received, the doctor explained everything clearly.",Positive,Staff,Low
+F6041,P1009,2025-01-25,"I am satisfied with the care I received, the doctor explained everything clearly.",Negative,Facility,Low
+F6042,P1055,2025-02-01,The telehealth visit was convenient but the connection was unstable.,Positive,Staff,Medium
+F6043,P1054,2025-02-23,I had trouble scheduling an appointment online and had to call twice.,Positive,Wait Time,High
+F6044,P1023,2025-02-19,My prescription was sent to the wrong pharmacy.,Positive,Medication,Medium
+F6045,P1050,2025-03-20,"I am satisfied with the care I received, the doctor explained everything clearly.",Negative,Scheduling,Low
+F6046,P1000,2025-02-28,I had trouble scheduling an appointment online and had to call twice.,Negative,Technology,Low
+F6047,P1034,2025-01-31,The staff were rude at the front desk and did not listen to my concerns.,Negative,Wait Time,Low
+F6048,P1029,2025-03-16,"I am satisfied with the care I received, the doctor explained everything clearly.",Positive,Wait Time,High
+F6049,P1043,2025-01-26,"Everything went smoothly, I was seen quickly and my questions were answered.",Positive,Staff,Low
+F6050,P1037,2025-03-28,The staff were rude at the front desk and did not listen to my concerns.,Negative,Care Quality,Medium
+F6051,P1052,2025-03-10,I had trouble scheduling an appointment online and had to call twice.,Negative,Medication,Low
+F6052,P1006,2025-01-11,"Everything went smoothly, I was seen quickly and my questions were answered.",Neutral,Medication,Low
+F6053,P1030,2025-01-27,The telehealth visit was convenient but the connection was unstable.,Neutral,Billing,Low
+F6054,P1039,2025-01-15,The nurse was very kind but the wait time in the ER was too long.,Neutral,Scheduling,Medium
+F6055,P1020,2025-02-25,My prescription was sent to the wrong pharmacy.,Neutral,Billing,High
+F6056,P1014,2025-03-28,Follow-up instructions were clear and easy to understand.,Neutral,Facility,Low
+F6057,P1040,2025-03-30,"I am satisfied with the care I received, the doctor explained everything clearly.",Positive,Staff,High
+F6058,P1058,2025-03-26,"The clinic is clean and organized, I feel safe coming here.",Negative,Wait Time,Low
+F6059,P1041,2025-01-24,The staff were rude at the front desk and did not listen to my concerns.,Negative,Facility,Low
+F6060,P1007,2025-01-25,I had trouble scheduling an appointment online and had to call twice.,Negative,Staff,Medium
+F6061,P1002,2025-03-24,Billing was confusing and I was charged twice for the same visit.,Positive,Facility,Low
+F6062,P1019,2025-02-17,The nurse was very kind but the wait time in the ER was too long.,Negative,Wait Time,Low
+F6063,P1007,2025-02-16,"The clinic is clean and organized, I feel safe coming here.",Positive,Medication,Low
+F6064,P1015,2025-03-12,"I am satisfied with the care I received, the doctor explained everything clearly.",Positive,Medication,Low
+F6065,P1008,2025-01-31,My prescription was sent to the wrong pharmacy.,Negative,Wait Time,Medium
+F6066,P1029,2025-03-16,I had trouble scheduling an appointment online and had to call twice.,Negative,Staff,Medium
+F6067,P1042,2025-03-28,"Everything went smoothly, I was seen quickly and my questions were answered.",Negative,Care Quality,Low
+F6068,P1026,2025-01-08,My prescription was sent to the wrong pharmacy.,Negative,Wait Time,Low
+F6069,P1047,2025-03-11,Follow-up instructions were clear and easy to understand.,Negative,Wait Time,Medium
+F6070,P1056,2025-02-23,Billing was confusing and I was charged twice for the same visit.,Negative,Facility,Medium
+F6071,P1041,2025-01-13,I had trouble scheduling an appointment online and had to call twice.,Positive,Scheduling,Low
+F6072,P1053,2025-02-22,"I am satisfied with the care I received, the doctor explained everything clearly.",Positive,Care Quality,Medium
+F6073,P1039,2025-01-13,"The clinic is clean and organized, I feel safe coming here.",Positive,Facility,Medium
+F6074,P1017,2025-03-22,I had trouble scheduling an appointment online and had to call twice.,Positive,Medication,High
+F6075,P1044,2025-01-03,The nurse was very kind but the wait time in the ER was too long.,Positive,Wait Time,Low
+F6076,P1013,2025-01-24,"Everything went smoothly, I was seen quickly and my questions were answered.",Positive,Staff,High
+F6077,P1028,2025-03-01,"The clinic is clean and organized, I feel safe coming here.",Negative,Staff,High
+F6078,P1054,2025-01-28,The telehealth visit was convenient but the connection was unstable.,Positive,Staff,Low
+F6079,P1006,2025-02-27,"Everything went smoothly, I was seen quickly and my questions were answered.",Positive,Staff,Medium
+F6080,P1034,2025-02-28,"Everything went smoothly, I was seen quickly and my questions were answered.",Neutral,Care Quality,Low
+F6081,P1003,2025-01-06,"Everything went smoothly, I was seen quickly and my questions were answered.",Positive,Staff,Low
+F6082,P1017,2025-02-02,I had trouble scheduling an appointment online and had to call twice.,Positive,Medication,Low
+F6083,P1007,2025-01-12,The telehealth visit was convenient but the connection was unstable.,Negative,Technology,Low
+F6084,P1005,2025-03-18,"The clinic is clean and organized, I feel safe coming here.",Positive,Billing,Medium
+F6085,P1041,2025-02-01,The telehealth visit was convenient but the connection was unstable.,Neutral,Technology,Medium
+F6086,P1001,2025-03-13,Follow-up instructions were clear and easy to understand.,Neutral,Staff,Medium
+F6087,P1050,2025-03-08,The nurse was very kind but the wait time in the ER was too long.,Positive,Billing,Low
+F6088,P1015,2025-01-28,"Everything went smoothly, I was seen quickly and my questions were answered.",Negative,Facility,Low
+F6089,P1050,2025-03-31,Billing was confusing and I was charged twice for the same visit.,Positive,Scheduling,Low
+F6090,P1013,2025-01-05,Follow-up instructions were clear and easy to understand.,Negative,Medication,High
+F6091,P1053,2025-01-15,"I am satisfied with the care I received, the doctor explained everything clearly.",Negative,Scheduling,Medium
+F6092,P1013,2025-02-28,My prescription was sent to the wrong pharmacy.,Negative,Care Quality,Low
+F6093,P1013,2025-01-26,Follow-up instructions were clear and easy to understand.,Negative,Technology,Low
+F6094,P1021,2025-01-11,The telehealth visit was convenient but the connection was unstable.,Neutral,Billing,Medium
+F6095,P1050,2025-01-28,Billing was confusing and I was charged twice for the same visit.,Neutral,Medication,Medium
+F6096,P1000,2025-02-21,Follow-up instructions were clear and easy to understand.,Negative,Staff,Low
+F6097,P1054,2025-02-16,The staff were rude at the front desk and did not listen to my concerns.,Positive,Care Quality,Low
+F6098,P1008,2025-01-05,Billing was confusing and I was charged twice for the same visit.,Positive,Care Quality,Low
+F6099,P1016,2025-02-23,My prescription was sent to the wrong pharmacy.,Positive,Staff,Low
+F6100,P1007,2025-01-15,Billing was confusing and I was charged twice for the same visit.,Positive,Care Quality,Medium
+F6101,P1008,2025-03-10,The nurse was very kind but the wait time in the ER was too long.,Positive,Wait Time,Medium
+F6102,P1022,2025-03-23,The nurse was very kind but the wait time in the ER was too long.,Negative,Care Quality,High
+F6103,P1037,2025-01-03,The telehealth visit was convenient but the connection was unstable.,Negative,Care Quality,Low
+F6104,P1001,2025-02-02,"Everything went smoothly, I was seen quickly and my questions were answered.",Positive,Facility,Low
+F6105,P1016,2025-01-11,Billing was confusing and I was charged twice for the same visit.,Positive,Billing,Medium
+F6106,P1008,2025-01-16,The nurse was very kind but the wait time in the ER was too long.,Positive,Scheduling,High
+F6107,P1033,2025-03-05,I had trouble scheduling an appointment online and had to call twice.,Negative,Scheduling,High
+F6108,P1047,2025-01-11,"I am satisfied with the care I received, the doctor explained everything clearly.",Neutral,Care Quality,Medium
+F6109,P1030,2025-02-24,"I am satisfied with the care I received, the doctor explained everything clearly.",Positive,Wait Time,Medium
+F6110,P1049,2025-01-04,"The clinic is clean and organized, I feel safe coming here.",Positive,Wait Time,High
+F6111,P1032,2025-01-17,"Everything went smoothly, I was seen quickly and my questions were answered.",Neutral,Facility,High
+F6112,P1006,2025-02-03,Follow-up instructions were clear and easy to understand.,Neutral,Facility,High
+F6113,P1032,2025-03-06,"The clinic is clean and organized, I feel safe coming here.",Negative,Facility,High
+F6114,P1039,2025-03-29,The telehealth visit was convenient but the connection was unstable.,Positive,Staff,Low
+F6115,P1046,2025-01-09,The nurse was very kind but the wait time in the ER was too long.,Negative,Facility,Low
+F6116,P1019,2025-01-28,My prescription was sent to the wrong pharmacy.,Neutral,Scheduling,Low
+F6117,P1041,2025-02-11,"The clinic is clean and organized, I feel safe coming here.",Positive,Billing,Low
+F6118,P1003,2025-02-17,The nurse was very kind but the wait time in the ER was too long.,Positive,Wait Time,Medium
+F6119,P1054,2025-03-08,"The clinic is clean and organized, I feel safe coming here.",Positive,Facility,Low

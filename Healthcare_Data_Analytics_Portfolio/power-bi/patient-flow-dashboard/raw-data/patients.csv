@@ -1,0 +1,61 @@
+patient_id,first_name,last_name,age_group,gender,primary_condition
+P1000,Pat00,Demo00,56-75,Male,Asthma
+P1001,Pat01,Demo01,76+,Male,Hypertension
+P1002,Pat02,Demo02,18-35,Male,Asthma
+P1003,Pat03,Demo03,56-75,Male,Hypertension
+P1004,Pat04,Demo04,56-75,Male,Diabetes
+P1005,Pat05,Demo05,76+,Female,COPD
+P1006,Pat06,Demo06,18-35,Female,COPD
+P1007,Pat07,Demo07,18-35,Male,COPD
+P1008,Pat08,Demo08,56-75,Female,Asthma
+P1009,Pat09,Demo09,36-55,Female,Diabetes
+P1010,Pat10,Demo10,56-75,Female,Asthma
+P1011,Pat11,Demo11,56-75,Female,Asthma
+P1012,Pat12,Demo12,56-75,Male,Diabetes
+P1013,Pat13,Demo13,56-75,Female,Diabetes
+P1014,Pat14,Demo14,76+,Male,Diabetes
+P1015,Pat15,Demo15,18-35,Female,Diabetes
+P1016,Pat16,Demo16,76+,Female,COPD
+P1017,Pat17,Demo17,76+,Female,Heart Failure
+P1018,Pat18,Demo18,76+,Male,Heart Failure
+P1019,Pat19,Demo19,56-75,Female,Diabetes
+P1020,Pat20,Demo20,36-55,Male,Heart Failure
+P1021,Pat21,Demo21,18-35,Female,Heart Failure
+P1022,Pat22,Demo22,36-55,Male,Diabetes
+P1023,Pat23,Demo23,76+,Female,Heart Failure
+P1024,Pat24,Demo24,76+,Male,Asthma
+P1025,Pat25,Demo25,36-55,Male,Hypertension
+P1026,Pat26,Demo26,36-55,Female,Hypertension
+P1027,Pat27,Demo27,36-55,Male,Diabetes
+P1028,Pat28,Demo28,76+,Female,COPD
+P1029,Pat29,Demo29,76+,Female,Diabetes
+P1030,Pat30,Demo30,18-35,Female,COPD
+P1031,Pat31,Demo31,18-35,Female,Hypertension
+P1032,Pat32,Demo32,76+,Female,Diabetes
+P1033,Pat33,Demo33,36-55,Female,None
+P1034,Pat34,Demo34,36-55,Female,Asthma
+P1035,Pat35,Demo35,18-35,Female,Heart Failure
+P1036,Pat36,Demo36,76+,Female,COPD
+P1037,Pat37,Demo37,18-35,Female,None
+P1038,Pat38,Demo38,18-35,Female,Heart Failure
+P1039,Pat39,Demo39,56-75,Male,Heart Failure
+P1040,Pat40,Demo40,56-75,Male,Diabetes
+P1041,Pat41,Demo41,56-75,Female,Heart Failure
+P1042,Pat42,Demo42,36-55,Female,Asthma
+P1043,Pat43,Demo43,76+,Female,None
+P1044,Pat44,Demo44,76+,Female,Heart Failure
+P1045,Pat45,Demo45,76+,Female,Diabetes
+P1046,Pat46,Demo46,76+,Female,Asthma
+P1047,Pat47,Demo47,56-75,Female,Hypertension
+P1048,Pat48,Demo48,36-55,Female,None
+P1049,Pat49,Demo49,36-55,Male,Heart Failure
+P1050,Pat50,Demo50,56-75,Female,Diabetes
+P1051,Pat51,Demo51,36-55,Male,Hypertension
+P1052,Pat52,Demo52,56-75,Female,Hypertension
+P1053,Pat53,Demo53,76+,Female,COPD
+P1054,Pat54,Demo54,56-75,Male,Asthma
+P1055,Pat55,Demo55,76+,Female,Heart Failure
+P1056,Pat56,Demo56,76+,Male,Diabetes
+P1057,Pat57,Demo57,18-35,Female,COPD
+P1058,Pat58,Demo58,56-75,Female,Asthma
+P1059,Pat59,Demo59,18-35,Male,COPD
