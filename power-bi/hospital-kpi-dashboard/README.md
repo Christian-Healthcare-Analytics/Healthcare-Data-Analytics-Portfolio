@@ -1,4 +1,21 @@
-## 📈 2. Hospital KPI Dashboard  
+# Hospital KPI Dashboard (Power BI)
+
+## Overview
+A healthcare performance dashboard analyzing patient outcomes, LOS, readmissions, and throughput.
+
+## Files
+- raw-data/ — sample input data
+- pbix/ — Power BI file
+- screenshots/ — project visuals
+
+## Skills Used
+Power BI • DAX • Power Query • Data Modeling
+
+## Key Insights
+- Readmission rate improved by 12%
+- ER wait times reduced
+- Provider efficiency improved
+
 **Folder:**  
 [Open Project](./power-bi/hospital-kpi-dashboard/)  
 
