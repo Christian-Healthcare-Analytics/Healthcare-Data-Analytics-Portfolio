@@ -14,7 +14,7 @@ These are the same files included in your global portfolio ZIP.
 
 ## 🧩 **5. Data Model (Star Schema)**
 
-![Data Model](./screenshots/patient-flow-data-model.png)
+![Data Model](./screenshots)
 
 **Relationships:**
 
