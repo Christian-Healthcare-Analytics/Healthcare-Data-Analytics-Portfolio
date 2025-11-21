@@ -16,7 +16,7 @@ A cloud flow that automatically sends **email reminders** for appointments sched
 > - `./screenshots/appointment-reminder-flow-overview.png`
 > - `./screenshots/appointment-reminder-flow-logic.png`
 
-![Appointment Reminder Flow](./screenshots/appointment-reminder-flow-overview.png)
+![Appointment Reminder Flow](./screenshots)
 
 ---
 
