@@ -1,34 +1,50 @@
 # ✔ Claims Approval Workflow (Power Automate)
 
-Multi-level approval automation with audit logging.
+A multi-level approval flow that routes **new claims** through one or more approvers, logs decisions, and notifies stakeholders.
 
 ---
 
-## 📸 Flow Overview  
-![Approval Flow](./screenshots)
+## 📸 Flow Preview
+
+> Suggested screenshots:
+> - `./screenshots/claims-approval-flow-overview.png`
+> - `./screenshots/claims-approval-flow-steps.png`
+
+![Claims Approval Flow](./screenshots)
 
 ---
 
-## 📁 Files  
-- Export: `./exports/claims-approval.zip`  
-- Dataset: `claims.csv`
+## 📁 Project Files
+
+- **Flow export** (placeholder):  
+  `./exports/claims-approval-workflow.zip`
+
+- **Data file** (referenced, not stored here):  
+  `claims.csv`
 
 ---
 
-## 🧠 Workflow Steps  
-1. Trigger: New claim added  
-2. Start Approval (Level 1)  
-3. If approved → Level 2  
-4. Log decision  
-5. Notify claim owner  
+## 🔧 High-Level Logic
+
+1. **Trigger**: when a new claim is added or status = "Pending"  
+2. **Create approval** → send to Level 1 approver  
+3. If **approved**, optionally send to Level 2  
+4. **Write decision** back to data source (status, approver, timestamp)  
+5. **Send notification email** to claim owner
 
 ---
 
-## ▶️ Reproduce  
-1. Import flow  
-2. Connect to claims list/table  
-3. Configure approval emails  
-4. Test with sample data  
+## 💼 Business Value
+
+- Standardizes claim approval  
+- Clear audit trail of decisions  
+- Faster resolution of pending claims  
 
 ---
 
+## 🚀 Usage
+
+1. Build (or import) this flow in Power Automate  
+2. Connect it to your claims list or table  
+3. Configure approver emails  
+4. Test with a few synthetic claims  
