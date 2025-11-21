@@ -17,7 +17,7 @@ Power BI • DAX • Power Query • Data Modeling
 - Provider efficiency improved
 
 **Folder:**  
-[Open Project](./power-bi/hospital-kpi-dashboard/)  
+[Open Project](power-bi/hospital-kpi-dashboard/screenshots)  
 
 **Preview:**  
 ![Hospital KPI](./power-bi/hospital-kpi-dashboard/screenshots/dashboard.png)
