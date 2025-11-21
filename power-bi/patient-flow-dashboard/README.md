@@ -47,5 +47,28 @@ Used by:
 
 ## 📘 **4. Raw Datasets Used**
 
-Place these inside:
+[Files](./raw-data)
 
+---
+
+## 📐 **6. Key DAX Measures**
+
+Feel free to paste these directly into Power BI.
+
+```DAX
+Average LOS (Hours) =
+AVERAGE(encounters[length_of_stay_hours])
+
+Average ER Wait (Minutes) =
+AVERAGE(encounters[er_wait_minutes])
+
+Readmission Rate (%) =
+DIVIDE(
+    CALCULATE(COUNT(encounters[encounter_id]),
+        encounters[readmitted_30d] = 1
+    ),
+    COUNT(encounters[encounter_id])
+)
+
+Total Encounters =
+COUNT(encounters[encounter_id])
