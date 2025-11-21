@@ -1,12 +1,4 @@
-## 🏥 1. Patient Flow Dashboard  
-**Folder:**  
-[Open Project](./power-bi/patient-flow-dashboard/)  
-
-**Live Dashboard (if published):**  
-*Add link here*  
-
-**Preview:**  
-![Patient Flow](./power-bi/patient-flow-dashboard/screenshots/dashboard.png)
+## 🏥  Patient Flow Dashboard  
 
 **Key Metrics:**  
 - Length of Stay (LOS)  
