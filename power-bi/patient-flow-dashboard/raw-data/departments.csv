@@ -1,0 +1,6 @@
+department_id,department_name
+D10,Emergency
+D11,Inpatient
+D12,ICU
+D13,Outpatient
+D14,Radiology

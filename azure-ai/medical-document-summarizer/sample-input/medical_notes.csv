@@ -1,0 +1,81 @@
+note_id,patient_id,encounter_id,note_date,note_text
+N7000,P1025,E5109,2025-01-13,Patient is a 65 year old with history of hypertension and diabetes. Presents with shortness of breath for 3 days. Started on inhaler and advised follow up in 2 weeks.
+N7001,P1031,E5182,2025-02-14,"New diagnosis of type 2 diabetes. Discussed lifestyle changes, started on metformin, scheduled diabetes education class."
+N7002,P1004,E5230,2025-01-10,Patient is a 65 year old with history of hypertension and diabetes. Presents with shortness of breath for 3 days. Started on inhaler and advised follow up in 2 weeks.
+N7003,P1020,E5155,2025-01-09,"Patient reports chest pain on exertion. EKG performed in clinic, borderline changes. Referred to cardiology and ordered stress test."
+N7004,P1004,E5032,2025-02-23,"Follow-up for asthma. Symptoms improved, using rescue inhaler twice per week. Continue current dose, follow-up in 3 months."
+N7005,P1039,E5162,2025-01-27,"Post-hospital follow-up after pneumonia. Patient improving, still has mild cough. Encouraged deep breathing exercises."
+N7006,P1035,E5182,2025-02-03,"Follow-up for asthma. Symptoms improved, using rescue inhaler twice per week. Continue current dose, follow-up in 3 months."
+N7007,P1024,E5152,2025-01-01,"Post-hospital follow-up after pneumonia. Patient improving, still has mild cough. Encouraged deep breathing exercises."
+N7008,P1018,E5116,2025-02-01,"Post-hospital follow-up after pneumonia. Patient improving, still has mild cough. Encouraged deep breathing exercises."
+N7009,P1038,E5110,2025-03-30,Patient is a 65 year old with history of hypertension and diabetes. Presents with shortness of breath for 3 days. Started on inhaler and advised follow up in 2 weeks.
+N7010,P1050,E5179,2025-03-12,Patient is a 65 year old with history of hypertension and diabetes. Presents with shortness of breath for 3 days. Started on inhaler and advised follow up in 2 weeks.
+N7011,P1054,E5167,2025-03-08,"Post-hospital follow-up after pneumonia. Patient improving, still has mild cough. Encouraged deep breathing exercises."
+N7012,P1046,E5221,2025-03-25,"Patient reports chest pain on exertion. EKG performed in clinic, borderline changes. Referred to cardiology and ordered stress test."
+N7013,P1027,E5115,2025-01-20,"Patient reports chest pain on exertion. EKG performed in clinic, borderline changes. Referred to cardiology and ordered stress test."
+N7014,P1026,E5086,2025-02-04,"New diagnosis of type 2 diabetes. Discussed lifestyle changes, started on metformin, scheduled diabetes education class."
+N7015,P1025,E5106,2025-03-31,Patient is a 65 year old with history of hypertension and diabetes. Presents with shortness of breath for 3 days. Started on inhaler and advised follow up in 2 weeks.
+N7016,P1020,E5109,2025-03-19,"Follow-up for asthma. Symptoms improved, using rescue inhaler twice per week. Continue current dose, follow-up in 3 months."
+N7017,P1042,E5065,2025-01-17,"Follow-up for asthma. Symptoms improved, using rescue inhaler twice per week. Continue current dose, follow-up in 3 months."
+N7018,P1009,E5175,2025-01-18,"New diagnosis of type 2 diabetes. Discussed lifestyle changes, started on metformin, scheduled diabetes education class."
+N7019,P1004,E5023,2025-02-14,Patient is a 65 year old with history of hypertension and diabetes. Presents with shortness of breath for 3 days. Started on inhaler and advised follow up in 2 weeks.
+N7020,P1005,E5110,2025-03-25,Patient is a 65 year old with history of hypertension and diabetes. Presents with shortness of breath for 3 days. Started on inhaler and advised follow up in 2 weeks.
+N7021,P1047,E5189,2025-02-22,"Follow-up for asthma. Symptoms improved, using rescue inhaler twice per week. Continue current dose, follow-up in 3 months."
+N7022,P1051,E5033,2025-03-23,"Post-hospital follow-up after pneumonia. Patient improving, still has mild cough. Encouraged deep breathing exercises."
+N7023,P1003,E5150,2025-03-09,"Post-hospital follow-up after pneumonia. Patient improving, still has mild cough. Encouraged deep breathing exercises."
+N7024,P1035,E5084,2025-03-06,Patient is a 65 year old with history of hypertension and diabetes. Presents with shortness of breath for 3 days. Started on inhaler and advised follow up in 2 weeks.
+N7025,P1026,E5090,2025-01-01,"New diagnosis of type 2 diabetes. Discussed lifestyle changes, started on metformin, scheduled diabetes education class."
+N7026,P1055,E5234,2025-02-27,Patient is a 65 year old with history of hypertension and diabetes. Presents with shortness of breath for 3 days. Started on inhaler and advised follow up in 2 weeks.
+N7027,P1018,E5153,2025-01-26,"Follow-up for asthma. Symptoms improved, using rescue inhaler twice per week. Continue current dose, follow-up in 3 months."
+N7028,P1022,E5026,2025-01-20,"Post-hospital follow-up after pneumonia. Patient improving, still has mild cough. Encouraged deep breathing exercises."
+N7029,P1032,E5054,2025-03-28,"Patient reports chest pain on exertion. EKG performed in clinic, borderline changes. Referred to cardiology and ordered stress test."
+N7030,P1042,E5123,2025-01-10,"Patient reports chest pain on exertion. EKG performed in clinic, borderline changes. Referred to cardiology and ordered stress test."
+N7031,P1054,E5027,2025-02-28,"Follow-up for asthma. Symptoms improved, using rescue inhaler twice per week. Continue current dose, follow-up in 3 months."
+N7032,P1054,E5142,2025-03-16,"Follow-up for asthma. Symptoms improved, using rescue inhaler twice per week. Continue current dose, follow-up in 3 months."
+N7033,P1007,E5195,2025-02-10,"Follow-up for asthma. Symptoms improved, using rescue inhaler twice per week. Continue current dose, follow-up in 3 months."
+N7034,P1036,E5057,2025-01-05,"New diagnosis of type 2 diabetes. Discussed lifestyle changes, started on metformin, scheduled diabetes education class."
+N7035,P1054,E5143,2025-03-06,"Post-hospital follow-up after pneumonia. Patient improving, still has mild cough. Encouraged deep breathing exercises."
+N7036,P1039,E5172,2025-01-17,"Post-hospital follow-up after pneumonia. Patient improving, still has mild cough. Encouraged deep breathing exercises."
+N7037,P1001,E5155,2025-01-22,"Follow-up for asthma. Symptoms improved, using rescue inhaler twice per week. Continue current dose, follow-up in 3 months."
+N7038,P1001,E5046,2025-02-10,"Follow-up for asthma. Symptoms improved, using rescue inhaler twice per week. Continue current dose, follow-up in 3 months."
+N7039,P1044,E5195,2025-03-09,"Follow-up for asthma. Symptoms improved, using rescue inhaler twice per week. Continue current dose, follow-up in 3 months."
+N7040,P1058,E5086,2025-03-10,"Follow-up for asthma. Symptoms improved, using rescue inhaler twice per week. Continue current dose, follow-up in 3 months."
+N7041,P1000,E5046,2025-01-11,"Patient reports chest pain on exertion. EKG performed in clinic, borderline changes. Referred to cardiology and ordered stress test."
+N7042,P1036,E5168,2025-02-25,"New diagnosis of type 2 diabetes. Discussed lifestyle changes, started on metformin, scheduled diabetes education class."
+N7043,P1004,E5036,2025-02-20,Patient is a 65 year old with history of hypertension and diabetes. Presents with shortness of breath for 3 days. Started on inhaler and advised follow up in 2 weeks.
+N7044,P1005,E5191,2025-01-21,"Post-hospital follow-up after pneumonia. Patient improving, still has mild cough. Encouraged deep breathing exercises."
+N7045,P1013,E5096,2025-03-17,"New diagnosis of type 2 diabetes. Discussed lifestyle changes, started on metformin, scheduled diabetes education class."
+N7046,P1029,E5087,2025-01-26,"Patient reports chest pain on exertion. EKG performed in clinic, borderline changes. Referred to cardiology and ordered stress test."
+N7047,P1023,E5079,2025-01-19,"Follow-up for asthma. Symptoms improved, using rescue inhaler twice per week. Continue current dose, follow-up in 3 months."
+N7048,P1049,E5241,2025-03-01,"Post-hospital follow-up after pneumonia. Patient improving, still has mild cough. Encouraged deep breathing exercises."
+N7049,P1038,E5021,2025-03-12,Patient is a 65 year old with history of hypertension and diabetes. Presents with shortness of breath for 3 days. Started on inhaler and advised follow up in 2 weeks.
+N7050,P1009,E5040,2025-02-16,"Post-hospital follow-up after pneumonia. Patient improving, still has mild cough. Encouraged deep breathing exercises."
+N7051,P1003,E5172,2025-03-12,Patient is a 65 year old with history of hypertension and diabetes. Presents with shortness of breath for 3 days. Started on inhaler and advised follow up in 2 weeks.
+N7052,P1017,E5113,2025-01-26,"New diagnosis of type 2 diabetes. Discussed lifestyle changes, started on metformin, scheduled diabetes education class."
+N7053,P1031,E5155,2025-02-09,"New diagnosis of type 2 diabetes. Discussed lifestyle changes, started on metformin, scheduled diabetes education class."
+N7054,P1026,E5069,2025-01-05,"Patient reports chest pain on exertion. EKG performed in clinic, borderline changes. Referred to cardiology and ordered stress test."
+N7055,P1048,E5131,2025-01-21,Patient is a 65 year old with history of hypertension and diabetes. Presents with shortness of breath for 3 days. Started on inhaler and advised follow up in 2 weeks.
+N7056,P1022,E5110,2025-03-19,Patient is a 65 year old with history of hypertension and diabetes. Presents with shortness of breath for 3 days. Started on inhaler and advised follow up in 2 weeks.
+N7057,P1018,E5173,2025-01-04,"Post-hospital follow-up after pneumonia. Patient improving, still has mild cough. Encouraged deep breathing exercises."
+N7058,P1031,E5134,2025-01-23,"Follow-up for asthma. Symptoms improved, using rescue inhaler twice per week. Continue current dose, follow-up in 3 months."
+N7059,P1002,E5056,2025-03-25,"New diagnosis of type 2 diabetes. Discussed lifestyle changes, started on metformin, scheduled diabetes education class."
+N7060,P1038,E5014,2025-01-15,Patient is a 65 year old with history of hypertension and diabetes. Presents with shortness of breath for 3 days. Started on inhaler and advised follow up in 2 weeks.
+N7061,P1013,E5077,2025-01-08,"Patient reports chest pain on exertion. EKG performed in clinic, borderline changes. Referred to cardiology and ordered stress test."
+N7062,P1049,E5035,2025-02-10,"Follow-up for asthma. Symptoms improved, using rescue inhaler twice per week. Continue current dose, follow-up in 3 months."
+N7063,P1018,E5083,2025-01-19,Patient is a 65 year old with history of hypertension and diabetes. Presents with shortness of breath for 3 days. Started on inhaler and advised follow up in 2 weeks.
+N7064,P1000,E5127,2025-02-15,"New diagnosis of type 2 diabetes. Discussed lifestyle changes, started on metformin, scheduled diabetes education class."
+N7065,P1011,E5033,2025-01-28,"New diagnosis of type 2 diabetes. Discussed lifestyle changes, started on metformin, scheduled diabetes education class."
+N7066,P1034,E5180,2025-03-09,"Patient reports chest pain on exertion. EKG performed in clinic, borderline changes. Referred to cardiology and ordered stress test."
+N7067,P1032,E5143,2025-01-15,"Follow-up for asthma. Symptoms improved, using rescue inhaler twice per week. Continue current dose, follow-up in 3 months."
+N7068,P1004,E5101,2025-02-06,Patient is a 65 year old with history of hypertension and diabetes. Presents with shortness of breath for 3 days. Started on inhaler and advised follow up in 2 weeks.
+N7069,P1027,E5004,2025-01-01,"New diagnosis of type 2 diabetes. Discussed lifestyle changes, started on metformin, scheduled diabetes education class."
+N7070,P1058,E5019,2025-03-08,"Follow-up for asthma. Symptoms improved, using rescue inhaler twice per week. Continue current dose, follow-up in 3 months."
+N7071,P1036,E5109,2025-01-24,"Post-hospital follow-up after pneumonia. Patient improving, still has mild cough. Encouraged deep breathing exercises."
+N7072,P1025,E5181,2025-01-27,"New diagnosis of type 2 diabetes. Discussed lifestyle changes, started on metformin, scheduled diabetes education class."
+N7073,P1018,E5029,2025-02-09,"New diagnosis of type 2 diabetes. Discussed lifestyle changes, started on metformin, scheduled diabetes education class."
+N7074,P1001,E5247,2025-03-04,"Follow-up for asthma. Symptoms improved, using rescue inhaler twice per week. Continue current dose, follow-up in 3 months."
+N7075,P1010,E5205,2025-03-02,"Post-hospital follow-up after pneumonia. Patient improving, still has mild cough. Encouraged deep breathing exercises."
+N7076,P1029,E5212,2025-02-05,"Follow-up for asthma. Symptoms improved, using rescue inhaler twice per week. Continue current dose, follow-up in 3 months."
+N7077,P1005,E5111,2025-01-24,Patient is a 65 year old with history of hypertension and diabetes. Presents with shortness of breath for 3 days. Started on inhaler and advised follow up in 2 weeks.
+N7078,P1015,E5111,2025-01-24,"Post-hospital follow-up after pneumonia. Patient improving, still has mild cough. Encouraged deep breathing exercises."
+N7079,P1025,E5134,2025-01-04,Patient is a 65 year old with history of hypertension and diabetes. Presents with shortness of breath for 3 days. Started on inhaler and advised follow up in 2 weeks.
