@@ -1,23 +1,33 @@
-# 📧 KPI Email Digest Flow (Power Automate)
+# 📧 KPI Email Digest Automation (Power Automate)
 
-## Overview
-A daily automated email that sends key hospital performance metrics to clinical leaders.
+Sends a daily automated email summarizing key clinical performance metrics.
 
-## Data Used
-- kpi_daily.csv
+---
 
-## Flow Logic
-1. Trigger: Recurrence (every morning 7 AM)  
-2. Read daily KPI row  
-3. Format metrics into HTML email  
-4. Send digest to leadership distribution list  
+## 📸 Flow Images
+![Digest Flow](./screenshots)
 
-## KPIs Included
+---
+
+## 📁 Files  
+- Flow export: `./exports/kpi-email-digest.zip`  
+- Data: `kpi_daily.csv`
+
+---
+
+## 📌 KPIs Included  
 - Total Encounters  
-- ER Wait Time  
+- Avg ER Wait Time  
 - Avg LOS  
-- Readmission Rate  
+- Readmission %  
 - Claims Denial %  
 
-## Screenshots Section
-Add flow sequence and HTML output.
+---
+
+## ▶️ Reproduce  
+1. Create a flow with daily recurrence  
+2. Read first row from `kpi_daily.csv`  
+3. Compose HTML email  
+4. Send to leadership list  
+
+---
