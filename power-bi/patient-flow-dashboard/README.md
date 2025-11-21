@@ -12,6 +12,11 @@ It helps hospitals improve patient throughput, reduce bottlenecks, and support d
 ![Patient Flow Dashboard](./screenshots/patient-flow-dashboard-overview.png)
 
 ---
+![Patient Flow Insights](./screenshots/patient-flow-insights.png)
+
+---
+
+![Patient Flow Dta Model](./screenshots/patient-flow-data-model.png)
 
 ## 🧠 **2. Purpose of the Dashboard**
 
