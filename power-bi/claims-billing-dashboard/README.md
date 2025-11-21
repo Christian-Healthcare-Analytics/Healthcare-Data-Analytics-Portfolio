@@ -4,6 +4,9 @@ Tracks financial performance across payers, denials, claims aging, billed vs pai
 ## Tools
 Power BI • DAX • Data Modeling • Healthcare Revenue Cycle Data
 
+## 📁 Files  
+ [Raw Data used:](./raw-data)  
+
 ## Dataset Files
 - claims.csv
 - encounters.csv
