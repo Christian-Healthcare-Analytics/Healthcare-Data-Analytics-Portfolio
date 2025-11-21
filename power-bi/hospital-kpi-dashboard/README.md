@@ -1,7 +1,7 @@
 # Hospital KPI Dashboard (Power BI)
 
 ## Overview
-A healthcare performance dashboard analyzing patient outcomes, LOS, readmissions, and throughput.
+A performance dashboard measuring clinical KPIs including readmission rate, length of stay, patient throughput, and ER wait times.
 
 ## Files
 - raw-data/ — sample input data
