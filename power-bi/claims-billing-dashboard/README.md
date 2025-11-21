@@ -8,7 +8,8 @@ Power BI • DAX • Data Modeling • Healthcare Revenue Cycle Data
 - claims.csv
 - encounters.csv
 - payers (auto generated inside claims)
-
+## Folder: 
+[Open Project](./screenshots)  
 ## Metrics
 - Total Billed Amount  
 - Total Paid Amount  
