@@ -146,30 +146,41 @@
   </div>
 
   <script>
-    const themeToggle = document.getElementById('themeToggle');
-    const themeIcon = document.getElementById('themeIcon');
-    const body = document.body;
+  const body = document.body;
+  const themeToggle = document.getElementById('themeToggle');
+  const themeIcon = document.getElementById('themeIcon');
+  const menuToggle = document.getElementById('menuToggle');
+  const header = document.querySelector('.site-header');
 
-    function setTheme(mode) {
-      if (mode === 'dark') {
-        body.classList.add('dark-theme');
-        themeIcon.textContent = 'light_mode';
-        localStorage.setItem('theme', 'dark');
-      } else {
-        body.classList.remove('dark-theme');
-        themeIcon.textContent = 'dark_mode';
-        localStorage.setItem('theme', 'light');
-      }
+  function setTheme(mode) {
+    if (mode === 'dark') {
+      body.classList.add('dark-theme');
+      if (themeIcon) themeIcon.textContent = 'light_mode';
+      localStorage.setItem('theme', 'dark');
+    } else {
+      body.classList.remove('dark-theme');
+      if (themeIcon) themeIcon.textContent = 'dark_mode';
+      localStorage.setItem('theme', 'light');
     }
+  }
 
-    const savedTheme = localStorage.getItem('theme') || 'light';
-    setTheme(savedTheme);
+  const savedTheme = localStorage.getItem('theme') || 'light';
+  setTheme(savedTheme);
 
+  if (themeToggle) {
     themeToggle.addEventListener('click', () => {
       const current = body.classList.contains('dark-theme') ? 'dark' : 'light';
       setTheme(current === 'dark' ? 'light' : 'dark');
     });
-  </script>
+  }
+
+  if (menuToggle && header) {
+    menuToggle.addEventListener('click', () => {
+      header.classList.toggle('nav-open');
+    });
+  }
+</script>
+
 </body>
 </html>
 
