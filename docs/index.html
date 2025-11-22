@@ -3,74 +3,58 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Christian Kassa | Christian Data Health</title>
+  <title>Christian Data Health | Healthcare Data Analytics Portfolio</title>
 
-  <!-- Meta SEO -->
-<meta name="description" content="Healthcare Data Analyst portfolio showcasing Power BI dashboards, workflow automation in Power Automate, and Azure AI projects. Built by Christian Kassa.">
+  <!-- SEO -->
+  <meta name="description" content="Healthcare Data Analyst portfolio by Christian Kassa. Power BI dashboards, Power Automate workflows, and Azure AI projects for healthcare operations and KPIs.">
+  <meta name="author" content="Christian Kassa">
 
-<meta name="keywords" content="Healthcare Data Analyst, Power BI, Healthcare KPIs, Power Automate, Azure AI, SQL, Patient Flow Dashboard, Hospital KPI Dashboard, Healthcare Analytics Portfolio">
+  <!-- Open Graph -->
+  <meta property="og:title" content="Christian Data Health | Healthcare Analytics Portfolio">
+  <meta property="og:description" content="Power BI dashboards, workflow automation, and Azure AI projects using synthetic healthcare datasets.">
+  <meta property="og:url" content="https://christiandatahealth.online/">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://christiandatahealth.online/assets/profile.jpg">
 
-<meta name="author" content="Christian Kassa">
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Christian Data Health | Healthcare Analytics Portfolio">
+  <meta name="twitter:description" content="Dashboards and automation for patient flow, KPIs, and revenue cycle analytics.">
+  <meta name="twitter:image" content="https://christiandatahealth.online/assets/profile.jpg">
 
-<!-- OpenGraph (for social preview + Google snippet quality) -->
-<meta property="og:title" content="Christian Data Health | Healthcare Data Analyst Portfolio">
-<meta property="og:description" content="Dashboards, automation workflows, and Azure AI projects built using synthetic healthcare datasets.">
-<meta property="og:url" content="https://christiandatahealth.online">
-<meta property="og:type" content="website">
-<meta property="og:image" content="https://christiandatahealth.online/assets/profile.jpg">
+  <!-- JSON-LD Person schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Christian Kassa",
+    "url": "https://christiandatahealth.online",
+    "image": "https://christiandatahealth.online/assets/profile.jpg",
+    "jobTitle": "Healthcare Data Analyst",
+    "description": "Healthcare Data Analyst specializing in Power BI, patient flow analysis, KPIs, Power Automate workflows, and Azure AI.",
+    "sameAs": [
+      "https://github.com/Christian-Healthcare-Analytics"
+    ],
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Christian Data Health"
+    }
+  }
+  </script>
 
-<!-- Twitter Card -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Christian Data Health | Healthcare Analytics Portfolio">
-<meta name="twitter:description" content="Power BI dashboards, patient flow analytics, and workflow automation.">
-<meta name="twitter:image" content="https://christiandatahealth.online/assets/profile.jpg">
-
-  
-  <!-- Google Fonts: Montserrat, Inter, Poppins -->
+  <!-- Fonts + Icons (same as before) -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Montserrat:wght@500;700&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
-
-  <!-- Material Symbols Icons -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" />
 
   <link rel="stylesheet" href="style.css" />
 </head>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Christian Kassa",
-  "url": "https://christiandatahealth.online",
-  "image": "https://christiandatahealth.online/assets/profile.jpg",
-  "jobTitle": "Healthcare Data Analyst",
-  "description": "Healthcare Data Analyst specializing in Power BI, patient flow analysis, KPIs, Power Automate workflows, and Azure AI projects.",
-  "sameAs": [
-    "https://github.com/Christian-Healthcare-Analytics"
-  ],
-  "worksFor": {
-    "@type": "Organization",
-    "name": "Christian Data Health"
-  }
-}
-</script>
-
-  
 <body>
-  <!-- Analytics placeholder -->
-  <!-- Paste your analytics script (Plausible / GA / etc.) below when ready -->
-  <!--
-  <script>
-    // Example: your analytics tracking snippet
-  </script>
-  -->
-
   <div class="page-wrapper">
 
     <header class="site-header">
       <div class="logo-area">
-        <!-- If you upload a real logo, replace with <img src="assets/logo.svg" alt="Christian Data Health logo" class="logo-img"> -->
         <div class="logo-mark">CD</div>
         <div class="logo-text">
           <span class="logo-title">Christian Data Health</span>
@@ -79,12 +63,12 @@
       </div>
 
       <nav class="main-nav">
-        <a href="#about">About</a>
-        <a href="#dashboards">Dashboards</a>
-        <a href="#automations">Automations</a>
-        <a href="#ai">Azure AI</a>
-        <a href="#timeline">Timeline</a>
-        <a href="#contact">Contact</a>
+        <a href="index.html">Home</a>
+        <a href="dashboards.html">Dashboards</a>
+        <a href="automations.html">Automations</a>
+        <a href="ai.html">Azure AI</a>
+        <a href="timeline.html">Journey</a>
+        <a href="contact.html">Contact</a>
       </nav>
 
       <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
@@ -96,7 +80,6 @@
       <div class="hero-bg"></div>
       <div class="hero-content">
         <div class="hero-left">
-          <!-- Replace with your actual picture: docs/assets/profile.jpg -->
           <div class="hero-avatar-wrapper">
             <img src="assets/profile.jpg" alt="Photo of Christian Kassa" class="hero-avatar" onerror="this.style.display='none';">
           </div>
@@ -104,11 +87,10 @@
         <div class="hero-right">
           <h1>Hi, I’m Christian Kassa.</h1>
           <p class="hero-tagline">
-            Healthcare Data Analyst using <strong>Power BI</strong>, <strong>Power Automate</strong>, and <strong>Azure AI</strong> to turn patient flow, KPI, and revenue cycle data into actionable insights.
+            Healthcare Data Analyst using <strong>Power BI</strong>, <strong>Power Automate</strong>, and <strong>Azure AI</strong> to turn clinical and operational data into decisions.
           </p>
           <p class="hero-body">
-            I combine hands-on healthcare experience with analytics and automation to help teams reduce delays, improve patient experience, and support better decisions.
-            Explore live project structures, synthetic healthcare datasets, and documentation on GitHub—backed by a real learning journey.
+            I build dashboards, automation workflows, and AI-powered tools using synthetic healthcare datasets to explore patient flow, KPIs, and revenue cycle performance. This portfolio is my proof of skills and my learning journey.
           </p>
           <div class="hero-actions">
             <a href="https://github.com/Christian-Healthcare-Analytics/Healthcare-Data-Analytics-Portfolio" class="btn primary" target="_blank" rel="noopener">View GitHub Portfolio</a>
@@ -126,265 +108,40 @@
     </section>
 
     <main>
-
-      <!-- Power BI Dashboards -->
-      <section id="dashboards" class="section">
+      <section class="section">
         <div class="section-header">
-          <h2>📊 Power BI Dashboards</h2>
-          <p>End-to-end dashboards built on synthetic healthcare data for patient flow, KPIs, and revenue cycle analytics.</p>
+          <h2>What You’ll Find Here</h2>
+          <p>This site brings together my healthcare analytics projects, focusing on patient flow, hospital KPIs, claims & billing, workflow automation, and applied AI.</p>
         </div>
 
         <div class="card-grid">
-
           <article class="card">
-            <div class="card-icon">
-              <span class="material-symbols-outlined">monitor_heart</span>
-            </div>
-            <h3>Patient Flow Dashboard</h3>
-            <p class="card-text">
-              Tracks ER wait times, LOS, 30-day readmission rate, and provider throughput to identify bottlenecks in the care journey.
-            </p>
-            <ul class="card-tags">
-              <li>ER Wait & LOS</li>
-              <li>Readmissions</li>
-              <li>Departments & Providers</li>
-            </ul>
-           <a href="https://github.com/Christian-Healthcare-Analytics/Healthcare-Data-Analytics-Portfolio/tree/main/power-bi/patient-flow-dashboard" 
-   class="card-link" target="_blank" rel="noopener">
-  Open Project →
-</a>
-
-
+            <h3>Power BI Dashboards</h3>
+            <p class="card-text">Patient Flow, Hospital KPIs, and Claims & Billing dashboards built on synthetic healthcare data.</p>
+            <a href="dashboards.html" class="card-link">View Dashboards →</a>
           </article>
 
           <article class="card">
-            <div class="card-icon">
-              <span class="material-symbols-outlined">query_stats</span>
-            </div>
-            <h3>Hospital KPI Dashboard</h3>
-            <p class="card-text">
-              Daily operational KPIs: encounters, LOS, ER wait, readmission %, and denial %, designed for leadership huddles.
-            </p>
-            <ul class="card-tags">
-              <li>Daily KPIs</li>
-              <li>Operational Insight</li>
-              <li>Leadership View</li>
-            </ul>
-            <!-- Hospital KPI Dashboard -->
-<a href="https://github.com/Christian-Healthcare-Analytics/Healthcare-Data-Analytics-Portfolio/tree/main/power-bi/hospital-kpi-dashboard"
-   class="card-link" target="_blank" rel="noopener">
-  Open Project →
-</a>
+            <h3>Workflow Automations</h3>
+            <p class="card-text">Power Automate flows for appointment reminders, KPI digests, and claims approvals.</p>
+            <a href "automations.html" class="card-link">View Automations →</a>
           </article>
 
           <article class="card">
-            <div class="card-icon">
-              <span class="material-symbols-outlined">payments</span>
-            </div>
-            <h3>Claims & Billing Dashboard</h3>
-            <p class="card-text">
-              Analyzes payer mix, billed vs paid, denial rate, and denial reasons to support revenue cycle improvement.
-            </p>
-            <ul class="card-tags">
-              <li>Payer Performance</li>
-              <li>Denial Analytics</li>
-              <li>Revenue Insights</li>
-            </ul>
-            <!-- Claims & Billing Dashboard -->
-<a href="https://github.com/Christian-Healthcare-Analytics/Healthcare-Data-Analytics-Portfolio/tree/main/power-bi/claims-billing-dashboard"
-   class="card-link" target="_blank" rel="noopener">
-  Open Project →
-</a>
+            <h3>Azure AI Experiments</h3>
+            <p class="card-text">NLP-based projects like clinical note summarization and patient feedback analysis.</p>
+            <a href="ai.html" class="card-link">View Azure AI Projects →</a>
           </article>
-
         </div>
       </section>
-
-      <!-- Power Automate -->
-      <section id="automations" class="section alt">
-        <div class="section-header">
-          <h2>⚙ Power Automate Workflows</h2>
-          <p>Cloud flows that connect healthcare data with notifications, approvals, and operational workflows.</p>
-        </div>
-
-        <div class="card-grid">
-
-          <article class="card">
-            <div class="card-icon">
-              <span class="material-symbols-outlined">event_available</span>
-            </div>
-            <h3>Appointment Reminder Flow</h3>
-            <p class="card-text">
-              Reduces no-shows by sending next-day appointment reminder emails based on upcoming patient bookings.
-            </p>
-            <ul class="card-tags">
-              <li>No-Show Reduction</li>
-              <li>Email Automation</li>
-              <li>Scheduling Support</li>
-            </ul>
-            <!-- Appointment Reminder Flow -->
-<a href="https://github.com/Christian-Healthcare-Analytics/Healthcare-Data-Analytics-Portfolio/tree/main/power-automate/appointment-reminder-flow"
-   class="card-link" target="_blank" rel="noopener">
-  Open Project →
-</a>
-          </article>
-
-          <article class="card">
-            <div class="card-icon">
-              <span class="material-symbols-outlined">mail</span>
-            </div>
-            <h3>KPI Email Digest Flow</h3>
-            <p class="card-text">
-              Sends a daily email summarizing key KPIs (encounters, LOS, ER wait, readmission %, denial %) to leadership.
-            </p>
-            <ul class="card-tags">
-              <li>Daily Summary</li>
-              <li>Leadership Insight</li>
-              <li>BI + Automation</li>
-            </ul>
-            <!-- KPI Email Digest Flow -->
-<a href="https://github.com/Christian-Healthcare-Analytics/Healthcare-Data-Analytics-Portfolio/tree/main/power-automate/kpi-email-digest-flow"
-   class="card-link" target="_blank" rel="noopener">
-  Open Project →
-</a>
-          </article>
-
-          <article class="card">
-            <div class="card-icon">
-              <span class="material-symbols-outlined">task_alt</span>
-            </div>
-            <h3>Claims Approval Workflow</h3>
-            <p class="card-text">
-              Routes new claims through multi-level approvals, with decision logging and notifications for stakeholders.
-            </p>
-            <ul class="card-tags">
-              <li>Approvals</li>
-              <li>Claims Routing</li>
-              <li>Audit Trail</li>
-            </ul>
-           <!-- Claims Approval Workflow -->
-<a href="https://github.com/Christian-Healthcare-Analytics/Healthcare-Data-Analytics-Portfolio/tree/main/power-automate/claims-approval-workflow"
-   class="card-link" target="_blank" rel="noopener">
-  Open Project →
-</a>
-          </article>
-
-        </div>
-      </section>
-
-      <!-- Azure AI -->
-      <section id="ai" class="section">
-        <div class="section-header">
-          <h2>🤖 Azure AI Projects</h2>
-          <p>Applied AI concepts for clinical text summarization and patient experience analytics.</p>
-        </div>
-
-        <div class="card-grid">
-
-          <article class="card">
-            <div class="card-icon">
-              <span class="material-symbols-outlined">description</span>
-            </div>
-            <h3>Medical Document Summarizer</h3>
-            <p class="card-text">
-              Uses Azure AI concepts to turn long clinical notes into concise summaries with key diagnosis, meds, and follow-up.
-            </p>
-            <ul class="card-tags">
-              <li>Summarization</li>
-              <li>Clinical Notes</li>
-              <li>Azure AI</li>
-            </ul>
-            <!-- Medical Document Summarizer -->
-<a href="https://github.com/Christian-Healthcare-Analytics/Healthcare-Data-Analytics-Portfolio/tree/main/azure-ai/medical-document-summarizer"
-   class="card-link" target="_blank" rel="noopener">
-  Open Project →
-</a>
-          </article>
-
-          <article class="card">
-            <div class="card-icon">
-              <span class="material-symbols-outlined">forum</span>
-            </div>
-            <h3>Patient Feedback NLP Analyzer</h3>
-            <p class="card-text">
-              Classifies patient feedback by sentiment, urgency, and category to surface high-risk issues faster.
-            </p>
-            <ul class="card-tags">
-              <li>Sentiment Analysis</li>
-              <li>Experience Analytics</li>
-              <li>NLP</li>
-            </ul>
-           <!-- Patient Feedback NLP Analyzer -->
-<a href="https://github.com/Christian-Healthcare-Analytics/Healthcare-Data-Analytics-Portfolio/tree/main/azure-ai/patient-feedback-nlp-analyzer"
-   class="card-link" target="_blank" rel="noopener">
-  Open Project →
-</a>
-          </article>
-
-        </div>
-      </section>
-
-      <!-- Timeline / Testimonials -->
-      <section id="timeline" class="section alt">
-        <div class="section-header">
-          <h2>📌 Learning Journey & Focus</h2>
-          <p>A snapshot of how I’m building my healthcare analytics skillset.</p>
-        </div>
-
-        <div class="timeline">
-          <div class="timeline-item">
-            <span class="timeline-dot"></span>
-            <div class="timeline-content">
-              <h3>Healthcare Experience → Analytics Focus</h3>
-              <p>Started with hands-on work in healthcare and operations, then shifted toward using data to improve patient flow and quality.</p>
-            </div>
-          </div>
-          <div class="timeline-item">
-            <span class="timeline-dot"></span>
-            <div class="timeline-content">
-              <h3>Power BI + Synthetic Healthcare Data</h3>
-              <p>Built dashboards using synthetic data to explore ER throughput, LOS, readmissions, and revenue impact safely.</p>
-            </div>
-          </div>
-          <div class="timeline-item">
-            <span class="timeline-dot"></span>
-            <div class="timeline-content">
-              <h3>Workflow Automation & Azure AI</h3>
-              <p>Layered in Power Automate and Azure AI concepts to connect dashboards with notifications, approvals, and AI insight.</p>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <!-- Contact -->
-      <section id="contact" class="section">
-        <div class="section-header">
-          <h2>📬 Contact</h2>
-          <p>Open to Healthcare Data Analyst, BI Analyst (Healthcare), and Healthcare Operations / Clinical Analyst roles.</p>
-        </div>
-
-        <div class="contact-grid">
-          <div>
-            <p><strong>Email:</strong> <a href="mailto:chriszethio@gmail.com">chriszethio@gmail.com</a></p>
-            <p><strong>GitHub:</strong> <a href="https://github.com/Christian-Healthcare-Analytics" target="_blank" rel="noopener">Christian-Healthcare-Analytics</a></p>
-            <p><strong>Location:</strong> Madison, WI (open to remote / hybrid)</p>
-          </div>
-          <div>
-            <p>If you’d like to discuss how this type of work could support your team, I’m happy to walk through the dashboards, flows, and AI concepts behind this portfolio.</p>
-          </div>
-        </div>
-      </section>
-
     </main>
 
     <footer class="site-footer">
-      <p>© 2025 Christian Data Health · Built with Power BI, Power Automate, Azure AI & GitHub Pages.</p>
+      <p>© 2025 Christian Data Health · Built with GitHub Pages.</p>
     </footer>
-
   </div>
 
   <script>
-    // Dark mode toggle
     const themeToggle = document.getElementById('themeToggle');
     const themeIcon = document.getElementById('themeIcon');
     const body = document.body;
@@ -401,7 +158,6 @@
       }
     }
 
-    // Load saved theme
     const savedTheme = localStorage.getItem('theme') || 'light';
     setTheme(savedTheme);
 
@@ -410,6 +166,6 @@
       setTheme(current === 'dark' ? 'light' : 'dark');
     });
   </script>
-
 </body>
 </html>
+
