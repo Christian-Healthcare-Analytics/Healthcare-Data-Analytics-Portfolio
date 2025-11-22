@@ -1025,7 +1025,7 @@ body.dark-theme .menu-toggle .material-symbols-outlined {
 
 /* Light green background with white text */
 .contact-section {
-  background: #2E8B57; /* soft healthcare green */
+  background: #2e8b57; /* soft healthcare green */
   color: #ffffff;
   padding: 2.4rem 1.5rem;
   border-radius: 16px;
@@ -1042,8 +1042,8 @@ body.dark-theme .menu-toggle .material-symbols-outlined {
 
 /* Highlighted paragraph block */
 .contact-highlight {
-  background: #fff9c4; /* warm soft yellow */
-  color: #C2B280 !important;
+  background: #c2b280; /* warm soft yellow */
+  color: #0051a2 !important;
   padding: 1rem 1.2rem;
   border-left: 6px solid #facc15; /* yellow accent */
   border-radius: 8px;
