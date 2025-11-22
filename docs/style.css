@@ -1058,3 +1058,121 @@ body.dark-theme .menu-toggle .material-symbols-outlined {
     border-radius: 0;
   }
 }
+
+/* ---------------------------------------
+   CONTACT SECTION STYLING
+---------------------------------------- */
+
+.contact-section {
+  background: #d9fbe5; /* soft light green */
+  color: #ffffff;
+  border-radius: 16px;
+  margin-top: 2rem;
+}
+
+.contact-section .section-header {
+  margin-bottom: 1.2rem;
+}
+
+.contact-section .section-header h2 {
+  color: #ffffff;
+}
+
+.contact-section .section-header p {
+  color: #f9fafb;
+}
+
+/* Force text inside contact block to be white by default */
+.contact-section p,
+.contact-section a,
+.contact-section strong {
+  color: #ffffff;
+}
+
+/* Highlighted paragraph */
+.contact-highlight {
+  background: #fff9c4; /* soft yellow */
+  color: #1a1a1a !important;
+  padding: 1rem 1.2rem;
+  border-left: 6px solid #facc15;
+  border-radius: 8px;
+  margin: 1.2rem 0 1.6rem;
+  font-weight: 500;
+  line-height: 1.6;
+}
+
+/* Contact Me button wrapper */
+.contact-cta-wrapper {
+  margin-bottom: 1.5rem;
+}
+
+.contact-cta {
+  background: #ffffff;
+  color: #15803d; /* green text */
+  border: 1px solid rgba(22,163,74,0.4);
+  box-shadow: 0 8px 18px rgba(22,163,74,0.25);
+}
+
+.contact-cta .material-symbols-outlined {
+  font-size: 20px;
+}
+
+/* Floating email card */
+.email-card {
+  background: rgba(15, 23, 42, 0.12);
+  border-radius: 14px;
+  padding: 1.3rem 1.4rem;
+  border: 1px solid rgba(15, 23, 42, 0.18);
+  box-shadow: 0 10px 24px rgba(15,23,42,0.22);
+  max-width: 420px;
+  margin-bottom: 1.8rem;
+}
+
+.email-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+  color: #ffffff;
+}
+
+.email-card p {
+  margin-bottom: 0.4rem;
+}
+
+.email-address {
+  display: inline-block;
+  font-weight: 600;
+  text-decoration: none;
+  color: #fef9c3; /* light yellow email */
+}
+
+.email-address:hover {
+  text-decoration: underline;
+}
+
+.email-location {
+  font-size: 14px;
+  opacity: 0.9;
+}
+
+/* Contact grid inside green block */
+.contact-grid {
+  margin-top: 1.2rem;
+}
+
+.contact-grid a {
+  color: #f1f5f9;
+  text-decoration: underline;
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+  .contact-section {
+    border-radius: 0;
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+  }
+
+  .email-card {
+    max-width: 100%;
+  }
+}
