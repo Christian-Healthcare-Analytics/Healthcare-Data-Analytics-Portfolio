@@ -1018,6 +1018,7 @@ body.dark-theme .menu-toggle .material-symbols-outlined {
     grid-template-columns: minmax(0, 1fr);
   }
 }
+
 /* ---------------------------------------
    CONTACT SECTION STYLING
 ---------------------------------------- */
@@ -1056,5 +1057,4 @@ body.dark-theme .menu-toggle .material-symbols-outlined {
   .contact-section {
     border-radius: 0;
   }
-
-
+}
