@@ -1018,4 +1018,43 @@ body.dark-theme .menu-toggle .material-symbols-outlined {
     grid-template-columns: minmax(0, 1fr);
   }
 }
+/* ---------------------------------------
+   CONTACT SECTION STYLING
+---------------------------------------- */
+
+/* Light green background with white text */
+.contact-section {
+  background: #d9fbe5; /* soft healthcare green */
+  color: #ffffff;
+  padding: 2.4rem 1.5rem;
+  border-radius: 16px;
+  margin-top: 2rem;
+}
+
+/* Override text colors inside the section */
+.contact-section p,
+.contact-section h2,
+.contact-section h3,
+.contact-section a {
+  color: #ffffff !important;
+}
+
+/* Highlighted paragraph block */
+.contact-highlight {
+  background: #fff9c4; /* warm soft yellow */
+  color: #1a1a1a !important;
+  padding: 1rem 1.2rem;
+  border-left: 6px solid #facc15; /* yellow accent */
+  border-radius: 8px;
+  margin: 1.2rem 0;
+  font-weight: 500;
+  line-height: 1.6;
+}
+
+/* Mobile Improvements */
+@media (max-width: 768px) {
+  .contact-section {
+    border-radius: 0;
+  }
+
 
