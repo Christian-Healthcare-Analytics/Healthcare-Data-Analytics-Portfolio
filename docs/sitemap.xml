@@ -7,27 +7,27 @@
   </url>
 
   <url>
-    <loc>https://christiandatahealth.online/#dashboards</loc>
+    <loc>https://christiandatahealth.online/dashboards.html</loc>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://christianddatahealth.online/#automations</loc>
+    <loc>https://christiandatahealth.online/automations.html</loc>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://christianddatahealth.online/#ai</loc>
+    <loc>https://christiandatahealth.online/ai.html</loc>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://christianddatahealth.online/#timeline</loc>
-    <priority>0.8</priority>
+    <loc>https://christiandatahealth.online/timeline.html</loc>
+    <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://christianddatahealth.online/#contact</loc>
+    <loc>https://christiandatahealth.online/contact.html</loc>
     <priority>0.7</priority>
   </url>
 
