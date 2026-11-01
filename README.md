@@ -210,7 +210,7 @@ My goal is to support healthcare organizations with:
 
 # 📬 Contact Me
 
-📧 Email: **chriszethio@gmail.com**  
+📧 Email: **Email**  
 🔗 LinkedIn:  https://www.linkedin.com/in/christian-kassa-24aaaa1a0/
 💻 GitHub: *This portfolio*
 
